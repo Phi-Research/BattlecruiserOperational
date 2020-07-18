@@ -2,9 +2,10 @@
 GitHub Tutorial
 
 Hello humanity,
-The internet realm knows me as Jason Kirura, a caffeine based lifeform.
 
-The algorithm to navigate this world:
+This ship is commanded by a caffeine based lifeform.
+
+Universal navigation algorithm:
 Logic.
 Consequences.
 Action.
