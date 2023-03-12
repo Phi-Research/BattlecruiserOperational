@@ -1,9 +1,7 @@
-# BattlecruiserOperational
+# VesselOperational
 
 GitHub Tutorial
 
-Hello humanity,
+Hello humanity.
+This vessel is alive.
 
-This ship is commanded by a caffeine based lifeform.
-
-Universal navigation algorithm: Logic. Consequences. Action.
